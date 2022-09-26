@@ -1,7 +1,7 @@
 # How to scan a Document to Computer?
 
 
-[![how to scan a document to computer](redd.png)](https://github.com/mytechspot/how.to.scan.a.document.to.computer)
+[![how to scan a document to computer](redd.png)](https://icncomputer.com/how-to-scan-a-document-to-computer/)
 
 
 Scanners used to be very complex and were prone to errors, making uploading documents a drawn-out experience many people would rather forget. However, these days, it’s easier than it’s ever been. This article will show you how to scan and upload a document regardless of which device you’re using.
